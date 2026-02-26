@@ -45,6 +45,7 @@ Teknik dünyanın dışında, hayatımı dengeleyen ilgi alanlarım:
 
 - **LinkedIn:** [linkedin.com/in/baki-aslanhan](https://linkedin.com/in/YOUR_PROFILE)
 - **Instagram:** [@baki_aslnh](https://www.instagram.com/baki_aslnh/)
+- **E-posta:** [bakiaslanhan001@gmail.com](mailto:bakiaslanhan001@gmail.com)
 
 *"Bir kere sınırı aşan için artık sınır yoktur."
                                             - Epiktetos*
