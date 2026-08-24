@@ -31,7 +31,7 @@
 
 ---
 
-### 🕊️ Kişisel Hayatta Ben
+### Kişisel Hayatta Ben
 Teknik dünyanın dışında, hayatımı dengeleyen ilgi alanlarım:
 
 - 🏛️ **Felsefe & Tarih:** Stoa felsefesi ve genel tarih üzerine okumalar yapıyorum. 
