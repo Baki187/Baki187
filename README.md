@@ -11,7 +11,6 @@
 - 🎓 **Eğitim:** İnönü Üniversitesi Yazılım Mühendisliği öğrencisi & Sanayi ve Teknoloji Bakanlığı Yapay Zeka Uzmanlık Programı katılımcısıyım.
 - 🛠️ **Projeler:** - **Akıllı Sözlük:** Java, Spring Boot ve React kullanarak geliştirdiğimiz modern bir sözlük uygulaması. Aslında bir sözlükten çok daha fazlası
   - **Custom Quadcopter:** Sıfırdan hem donanımını hem de kontrol mantığını kurguladığım drone projem. Uçuş kontrol yazılımınıda kendim yapmaya çalışıyorum 
-  - **3D & IoT:** Wemos D1 Mini ve 3D tasarımlarla akıllı aydınlatma gibi hobi uğraşlarım var.
 
 ---
 
